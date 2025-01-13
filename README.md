@@ -1,5 +1,6 @@
 ## Hi there 👋
-  🔭 I’m currently working on noise generator using gyroscope, CT scan viewer.
+  🔭 I’m currently working on noise generator using gyroscope, CT scan viewer. 
+    As soon as I'll report them back, I will import them 😄
 
   
 <!--
