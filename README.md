@@ -1,5 +1,5 @@
 ## Hi there 👋
-  🔭 I’m currently working on AQS. 
+  🔭 I’m currently working on EMG dwvice. 
 
   
 <!--
